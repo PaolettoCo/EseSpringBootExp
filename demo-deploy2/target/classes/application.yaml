@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: random-sum-app
+  profiles:
+    prod:
+      server:
+        port: 7070
+    test:
+      server:
+        port: 4000
+  default:
+    server:
+      port: 5000

@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: demo-deploy
+    version: 0.0.3
+  server:
+    port: 7070
+devName: Simona
