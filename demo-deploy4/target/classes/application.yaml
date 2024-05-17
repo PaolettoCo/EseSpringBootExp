@@ -1,0 +1,8 @@
+server:
+  port: 4000
+welcomeMsg: Hello from Test
+---
+environment: boh
+server:
+  port: 5000
+welcomeMsg: Hello from Prod
